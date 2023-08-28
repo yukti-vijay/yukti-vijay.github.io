@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/IMG_6745.jpeg"
   bio              : "Experienced Aerospace Data Scientist specializing in flight test data analysis, machine learning solutions and advanced statistical modeling. Backed by a strong foundation in statistics and machine learning, I excel in modeling complex relationships to drive impactful data-driven decisions for aerospace applications."
   location         : "San Fransisco, CA"
-  email            : "Vijay.yukti2001@gmail.com"
+  email            : Vijay.yukti2001@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
